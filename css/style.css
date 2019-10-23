@@ -62,10 +62,15 @@ a{
 	display: inline-block;
 	float: right;
 }
+.box-t{
+    background: #E6E6E6;
+	padding: 20px;
+}
 .box-p{
 	display: inline-block;
 	vertical-align: middle;
 	margin-bottom: 30px;
+	padding: 20px;
 }
 .conteiner3{
 	background-color:#E6E6E6;
@@ -90,11 +95,19 @@ a{
 	vertical-align: width;
 	text-decoration: 25px;
 }
-.box3{
+.conteiner5{
 	display: inline-block;
-	width: 50px;
+	background-color: #F2F2F2;
+	vertical-align: right;
 }
 .box2{
      display: inline-block;
      width: 300px;
+     padding: 5px;
+}
+.box2{
+     width: 300px;
  }
+.box-h{
+	height: 100px;
+}
